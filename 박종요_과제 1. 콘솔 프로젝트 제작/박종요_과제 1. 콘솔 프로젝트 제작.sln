@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "박종요_과제 1. 콘솔 프로젝트 제작", "박종요_과제 1. 콘솔 프로젝트 제작.csproj", "{D00A2856-5452-4829-B6E5-3D485844A8D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D00A2856-5452-4829-B6E5-3D485844A8D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D00A2856-5452-4829-B6E5-3D485844A8D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D00A2856-5452-4829-B6E5-3D485844A8D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D00A2856-5452-4829-B6E5-3D485844A8D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51BB1E18-7F19-4CF2-8EC7-330FA9D4A944}
+	EndGlobalSection
+EndGlobal
